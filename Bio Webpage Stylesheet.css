@@ -1,0 +1,45 @@
+body {
+    background-color: #efeee7;
+    margin: 0;
+    font-family: Times
+  }
+
+h1 {
+    color: #efeee7;   
+    background-color: black;
+    margin: 0;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px
+}
+
+a {
+    color: red
+}
+
+.webpage{
+    margin: auto;
+    width: 1200px;
+    padding-top: 25px
+}
+
+#photo {
+    width: 200px;
+    height: 200px;
+    margin-right: 25px
+}
+
+#main-body,
+#contact-info,
+#photo {
+    float: left;
+}
+
+#main-body {
+    width:60%;
+    margin-right: 120px
+}
+
+#contact-info {
+    width: 30%;
+}
